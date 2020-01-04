@@ -1,6 +1,7 @@
 # Planck Keyboard layout
 
-[planck](https://ergodox-ez.com/pages/planck)
+- [planck keyboard](https://ergodox-ez.com/pages/planck)
+- [online configurator](https://configure.ergodox-ez.com/planck-ez/layouts/Xqbmy/latest/0)
 
 ### Lower Layer:
 
