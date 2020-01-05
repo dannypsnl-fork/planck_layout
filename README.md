@@ -27,9 +27,9 @@ TODO: complete lower layer
 
 The order was raise+<key> and raise+shift+<key>(would be ignore if no), and the empty means same as base layer key.
 
-|       |     |     |     |     |     |     |      |     |      |           |        |
-| ----- | --- | --- | --- | --- | --- | --- | ---- | --- | ---- | --------- | ------ |
-| <code>`</code> ~ | 1 ! | 2 @ | 3 # | 4 $ | 5 % | 6 ^ | 7 &  | 8 * | 9 (  | 0 )       | delete |
-|       | - _ | = + |     |     |     |     | [  { | ] } | {    | }         | \ &#124;  |
-|       |     |     |     |     |     |     |      |     |      | page up   |        |
-|       |     |     |     |     |     |     |      |     | home | page down | end    |
+|         |     |     |     |      |     |     |      |      |      |           |          |
+| ------- | --- | --- | --- | ---- | --- | --- | ---- | ---- | ---- | --------- | -------- |
+| &#96; ~ | 1 ! | 2 @ | 3 # | 4 \$ | 5 % | 6 ^ | 7 &  | 8 \* | 9 (  | 0 )       | delete   |
+|         |     |     |     |      |     |     | - \_ | = +  | [ {  | ] }       | \ &#124; |
+|         |     |     |     |      |     |     |      |      |      | page up   |          |
+|         |     |     |     |      |     |     |      |      | home | page down | end      |
