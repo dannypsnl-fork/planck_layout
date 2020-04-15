@@ -1,7 +1,8 @@
 # Planck Keyboard layout
 
 - [planck keyboard](https://ergodox-ez.com/pages/planck)
-- [online configurator](https://configure.ergodox-ez.com/planck-ez/layouts/Xqbmy/latest/0)
+- [wally: flashing tool](https://github.com/zsa/wally/wiki/Linux-install)
+- [online configurator](https://configure.ergodox-ez.com/my_layouts/)
 
 ### Lower Layer
 
